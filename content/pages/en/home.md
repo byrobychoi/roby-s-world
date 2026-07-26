@@ -1,5 +1,5 @@
 ---
-title: Home
+title: This is a Title
 draft: false
 template: landing
 seo: {}
