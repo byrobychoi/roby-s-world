@@ -1,7 +1,16 @@
 {
   "defaultLocale": "en",
   "locales": [
-    { "code": "en", "label": "English", "ogLocale": "en_US" }
+    {
+      "code": "en",
+      "label": "English",
+      "ogLocale": "en_US"
+    },
+    {
+      "code": "es",
+      "label": "Español",
+      "ogLocale": "es_ES"
+    }
   ],
-  "onboarded": false
+  "onboarded": true
 }
