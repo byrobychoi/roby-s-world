@@ -4,24 +4,7 @@ draft: false
 template: landing
 ---
 
-<svg width="260" height="220" viewBox="0 0 260 220" xmlns="http://www.w3.org/2000/svg" style="display:block;margin:0 auto 24px;">
-  <ellipse cx="130" cy="130" rx="85" ry="70" fill="#4CAF50"/>
-  <polygon points="60,70 85,20 105,75" fill="#4CAF50"/>
-  <polygon points="200,70 175,20 155,75" fill="#4CAF50"/>
-  <polygon points="68,62 82,35 92,66" fill="#2E7D32"/>
-  <polygon points="192,62 178,35 168,66" fill="#2E7D32"/>
-  <circle cx="95" cy="115" r="14" fill="#fff"/>
-  <circle cx="165" cy="115" r="14" fill="#fff"/>
-  <circle cx="95" cy="118" r="6" fill="#1B1B1B"/>
-  <circle cx="165" cy="118" r="6" fill="#1B1B1B"/>
-  <polygon points="130,135 122,148 138,148" fill="#1B1B1B"/>
-  <path d="M130,148 Q130,158 118,158" stroke="#1B1B1B" stroke-width="2" fill="none"/>
-  <path d="M130,148 Q130,158 142,158" stroke="#1B1B1B" stroke-width="2" fill="none"/>
-  <line x1="30" y1="125" x2="80" y2="120" stroke="#1B1B1B" stroke-width="2"/>
-  <line x1="30" y1="140" x2="80" y2="140" stroke="#1B1B1B" stroke-width="2"/>
-  <line x1="180" y1="120" x2="230" y2="125" stroke="#1B1B1B" stroke-width="2"/>
-  <line x1="180" y1="140" x2="230" y2="140" stroke="#1B1B1B" stroke-width="2"/>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDI2MCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGVsbGlwc2UgY3g9IjEzMCIgY3k9IjEzMCIgcng9Ijg1IiByeT0iNzAiIGZpbGw9IiM0Q0FGNTAiLz4KICA8cG9seWdvbiBwb2ludHM9IjYwLDcwIDg1LDIwIDEwNSw3NSIgZmlsbD0iIzRDQUY1MCIvPgogIDxwb2x5Z29uIHBvaW50cz0iMjAwLDcwIDE3NSwyMCAxNTUsNzUiIGZpbGw9IiM0Q0FGNTAiLz4KICA8cG9seWdvbiBwb2ludHM9IjY4LDYyIDgyLDM1IDkyLDY2IiBmaWxsPSIjMkU3RDMyIi8+CiAgPHBvbHlnb24gcG9pbnRzPSIxOTIsNjIgMTc4LDM1IDE2OCw2NiIgZmlsbD0iIzJFN0QzMiIvPgogIDxjaXJjbGUgY3g9Ijk1IiBjeT0iMTE1IiByPSIxNCIgZmlsbD0iI2ZmZiIvPgogIDxjaXJjbGUgY3g9IjE2NSIgY3k9IjExNSIgcj0iMTQiIGZpbGw9IiNmZmYiLz4KICA8Y2lyY2xlIGN4PSI5NSIgY3k9IjExOCIgcj0iNiIgZmlsbD0iIzFCMUIxQiIvPgogIDxjaXJjbGUgY3g9IjE2NSIgY3k9IjExOCIgcj0iNiIgZmlsbD0iIzFCMUIxQiIvPgogIDxwb2x5Z29uIHBvaW50cz0iMTMwLDEzNSAxMjIsMTQ4IDEzOCwxNDgiIGZpbGw9IiMxQjFCMUIiLz4KICA8cGF0aCBkPSJNMTMwLDE0OCBRMTMwLDE1OCAxMTgsMTU4IiBzdHJva2U9IiMxQjFCMUIiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgogIDxwYXRoIGQ9Ik0xMzAsMTQ4IFExMzAsMTU4IDE0MiwxNTgiIHN0cm9rZT0iIzFCMUIxQiIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+CiAgPGxpbmUgeDE9IjMwIiB5MT0iMTI1IiB4Mj0iODAiIHkyPSIxMjAiIHN0cm9rZT0iIzFCMUIxQiIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9IjMwIiB5MT0iMTQwIiB4Mj0iODAiIHkyPSIxNDAiIHN0cm9rZT0iIzFCMUIxQiIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9IjE4MCIgeTE9IjEyMCIgeDI9IjIzMCIgeTI9IjEyNSIgc3Ryb2tlPSIjMUIxQjFCIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8bGluZSB4MT0iMTgwIiB5MT0iMTQwIiB4Mj0iMjMwIiB5Mj0iMTQwIiBzdHJva2U9IiMxQjFCMUIiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4K" alt="Green cat illustration" width="260" height="220" style="display:block;margin:0 auto 24px;" />
 <h1>Welcome to your new site</h1>
 <p>This page lives in your own GitHub repository as a plain file. Edit it in the
 admin at <code>/admin</code>, or ask an AI agent to do it for you.</p>
